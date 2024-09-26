@@ -22,5 +22,6 @@ This is Devsatyam Ray. I am currently pursuing my B.Tech in CSE from Institute o
 </a>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devsatyamr&theme=dark)](https://git.io/streak-stats)
+<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/evilCorpse.png" alt="TryHackMe">
 </p>
