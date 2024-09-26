@@ -13,7 +13,7 @@ This is Devsatyam Ray. I am currently pursuing my B.Tech in CSE from Institute o
 - 😄 Pronouns: He/him
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${devsatyamr}.${devsatyamr})
+![](https://komarev.com/ghpvc/?username=devsatyamr)
 <br>
 <a href="https://www.instagram.com/devsatyamr/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
