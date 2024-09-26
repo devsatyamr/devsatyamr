@@ -3,7 +3,9 @@
 <p font-family:"Ubuntu, sans-serif">
 This is Devsatyam Ray. I am currently pursuing my B.Tech in CSE from Institute of Engineering and Management, Kolkata. I have interest in Cybersecurity, Google Cloud, Web Development, Python.
 
-- 🔭 I’m currently Completing CEH v12 Certification.
+[![trophy](https://github-profile-trophy.vercel.app/?username=devsatyamr)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 🔭 Certified Ethical Hacker v12
 - 🌱 I’m currently playing CTFs.
 
 - 💬 Ask me about Cybersecurity.
