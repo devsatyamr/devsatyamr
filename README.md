@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"><img src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif"></img></p>
 <p font-family:"Ubuntu, sans-serif">
-This is Devsatyam Ray. I am currently pursuing my B.Tech in CSE from Institute of Engineering and Management, Kolkata. I have interest in Cybersecurity, Google Cloud, Web Development, Python.
+This is Devsatyam Ray. I am currently in my final year of pursuing my B.Tech in CSE from Institute of Engineering and Management, Kolkata. I have interest in Cybersecurity, Google Cloud, Web Development, Python.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devsatyamr)](https://github.com/ryo-ma/github-profile-trophy)
 
