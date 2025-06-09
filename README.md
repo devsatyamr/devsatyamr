@@ -7,7 +7,7 @@ This is Devsatyam Ray. I am currently in my final year of pursuing my B.Tech in 
 
 - 🔭 Certified Ethical Hacker v12
 - 🌱 I’m currently playing CTFs.
-- 🥷 Bug Bounty Hunter
+- 🥷 Bug Bounty Hunter.
 - 🏢 Ex Cybersecurity Intern @Senselearner Technogies Pvt. Ltd
 - 💬 Ask me about Cybersecurity.
 - 😄 Pronouns: He/him
