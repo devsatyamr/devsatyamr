@@ -22,6 +22,7 @@ This is Devsatyam Ray. I am currently in my final year of pursuing my B.Tech in 
 </a>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devsatyamr&theme=dark)](https://git.io/streak-stats)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/devsatyamr?theme=dark&font=Karma&ext=heatmap)
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/evilCorpse.png" alt="TryHackMe">
 </p>
