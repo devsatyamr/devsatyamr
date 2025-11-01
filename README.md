@@ -25,7 +25,7 @@ This is Devsatyam Ray. I am currently in my final year of pursuing my B.Tech in 
 
 <br><br>
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/devsatyamr?theme=unicorn&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/devsatyamr?theme=catppuccinMocha&font=Fauna%20One&ext=heatmap)
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/evilCorpse.png" alt="TryHackMe">
 </p>
