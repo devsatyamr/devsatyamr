@@ -21,11 +21,11 @@ This is Devsatyam Ray. I am currently in my final year of pursuing my B.Tech in 
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devsatyamr&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=devsatyamr&theme=dark)](https://git.io/streak-stats)
 
 <br><br>
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/devsatyamr?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/devsatyamr?theme=unicorn&font=Karma&ext=heatmap)
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/evilCorpse.png" alt="TryHackMe">
 </p>
