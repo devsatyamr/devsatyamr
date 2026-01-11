@@ -26,6 +26,7 @@ This is Devsatyam Ray. I am currently in my final year of pursuing my B.Tech in 
 <br><br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/devsatyamr?theme=catppuccinMocha&font=Fauna%20One&ext=heatmap)
+<a href="https://www.duolingo.com/profile/poptatonoc" target="_blank"> <img src="https://duolingo-stats-card.vercel.app/api?username=poptatonoc&theme=dark" alt="My Duolingo Stats" /> </a>
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/evilCorpse.png" alt="TryHackMe">
 </p>
